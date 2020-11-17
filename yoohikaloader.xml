@@ -11,11 +11,11 @@
 	<description>PLG_YOOHIKADLOADER_XML_DESCRIPTION</description>
 	<scriptfile>script.php</scriptfile>
 
-	<languages folder="languages">
-		<language tag="en-GB">en-GB.plg_system_yoohikaloader.ini</language>
-		<language tag="en-GB">en-GB.plg_system_yoohikaloader.sys.ini</language>
-		<language tag="ru-RU">ru-RU.plg_system_yoohikaloader.ini</language>
-		<language tag="ru-RU">ru-RU.plg_system_yoohikaloader.sys.ini</language>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_system_yoohikaloader.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_system_yoohikaloader.sys.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.plg_system_yoohikaloader.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.plg_system_yoohikaloader.sys.ini</language>
 	</languages>
 
 	<files>
