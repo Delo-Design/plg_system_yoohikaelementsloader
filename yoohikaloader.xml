@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6" type="plugin" group="system">
+	<name>PLG_YOOHIKADLOADER</name>
+	<author>Tsymbal</author>
+	<creationDate>17.11.2020</creationDate>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>cymbal@delo-design.ru</authorEmail>
+	<authorUrl>https://delo-design.ru</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_YOOHIKADLOADER_XML_DESCRIPTION</description>
+	<scriptfile>script.php</scriptfile>
+
+	<languages folder="languages">
+		<language tag="en-GB">en-GB.plg_system_yoohikaloader.ini</language>
+		<language tag="en-GB">en-GB.plg_system_yoohikaloader.sys.ini</language>
+		<language tag="ru-RU">ru-RU.plg_system_yoohikaloader.ini</language>
+		<language tag="ru-RU">ru-RU.plg_system_yoohikaloader.sys.ini</language>
+	</languages>
+
+	<files>
+		<folder>fields</folder>
+		<folder>language</folder>
+		<folder>src</folder>
+		<folder>sql</folder>
+		<folder>tables</folder>
+		<folder>tmpl</folder>
+		<filename plugin="yoohikaloader">yoohikaloader.php</filename>
+	</files>
+
+</extension>
