@@ -20,7 +20,7 @@
 
 	<files>
 		<folder>language</folder>
-		<filename plugin="yoohikaloader">boostrap.php</filename>
+		<filename plugin="yoohikaloader">bootstrap.php</filename>
 		<filename plugin="yoohikaloader">yoohikaloader.php</filename>
 	</files>
 
