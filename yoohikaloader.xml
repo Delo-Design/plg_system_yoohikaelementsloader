@@ -19,12 +19,8 @@
 	</languages>
 
 	<files>
-		<folder>fields</folder>
 		<folder>language</folder>
-		<folder>src</folder>
-		<folder>sql</folder>
-		<folder>tables</folder>
-		<folder>tmpl</folder>
+		<filename plugin="yoohikaloader">boostrap.php</filename>
 		<filename plugin="yoohikaloader">yoohikaloader.php</filename>
 	</files>
 
